@@ -1,4 +1,4 @@
-# loan-alerts-to-make-a-day-productive
+# Loan-alerts-to-make-a-day-productive
 
 
 As an international student, I built a simple solution that works as a daily pill to stay productive and keep priorities from slipping. To leverage my day, I created an email and Telegram alert that shows my current monthly interest, its increase, and total principal accrued. This attention makes me work hard.
