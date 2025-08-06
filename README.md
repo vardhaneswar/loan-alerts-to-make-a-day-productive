@@ -16,7 +16,7 @@ It reads disbursement data from a **Google Sheet**, calculates **daily interest*
 
 ```
 1️⃣ EventBridge → 2️⃣ Lambda → 3️⃣ Google Sheets → 4️⃣ SNS → 5️⃣ Telegram & Email
-![Architecture Diagram](architecture of aws lambda.png)
+(architecture of aws lambda.png)
 
 ```
 
