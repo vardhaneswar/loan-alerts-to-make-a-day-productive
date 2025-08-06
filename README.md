@@ -16,6 +16,8 @@ It reads disbursement data from a **Google Sheet**, calculates **daily interest*
 
 ```
 1️⃣ EventBridge → 2️⃣ Lambda → 3️⃣ Google Sheets → 4️⃣ SNS → 5️⃣ Telegram & Email
+<img width="892" height="632" alt="3 drawio" src="https://github.com/user-attachments/assets/55735ee2-9542-422b-82d8-6acf34d0839a" />
+
 ```
 
 > ✅ 100% serverless & automated with fixed interest logic
