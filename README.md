@@ -9,6 +9,7 @@ As an international student, I built a simple solution that works as a daily pil
 This project is a **fully automated, serverless daily loan tracking system** built to help students stay motivated and informed about their education loan. Unlike floating-rate models, this version uses a **fixed annual interest rate**, making it ideal for loans like those from **HDFC Credila**.
 
 It reads disbursement data from a **Google Sheet**, calculates **daily interest**, and sends updates via **Telegram and Email** using **AWS Lambda, EventBridge, SNS**, and a **custom Telegram bot**.
+<img width="892" height="632" alt="architecture of aws lambda" src="https://github.com/user-attachments/assets/195333dc-9b87-439c-b39b-d9a893517004" />
 
 ---
 
